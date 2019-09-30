@@ -1,5 +1,7 @@
 # geojson2svg 
 
+_All Who's On First specific development on this package has moved to [go-whosonfirst-svg](https://github.com/whosonfirst/go-whosonfirst-svg)._
+
 [![Build Status](https://travis-ci.org/fapian/geojson2svg.svg?branch=master)](https://travis-ci.org/fapian/geojson2svg)
 
 geojson2svg is a package to draw svg's from geojson data. Under the hood it uses https://github.com/paulmach/go.geojson to parse the geojson strings to Go structs.
