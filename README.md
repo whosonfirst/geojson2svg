@@ -1,6 +1,6 @@
 # geojson2svg 
 
-_All Who's On First specific development on this package has moved to [go-whosonfirst-svg](https://github.com/whosonfirst/go-whosonfirst-svg)._
+_All Who's On First specific development on this package has moved to [go-geojson-svg](https://github.com/whosonfirst/go-geojson-svg)._
 
 [![Build Status](https://travis-ci.org/fapian/geojson2svg.svg?branch=master)](https://travis-ci.org/fapian/geojson2svg)
 
